@@ -6,7 +6,7 @@ A web dashboard that investigates a simulated online-shop outage and names the m
 
 
 
-!\[Dashboard](docs/dashboard.png)
+
 
 
 
